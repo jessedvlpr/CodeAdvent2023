@@ -10,7 +10,7 @@ numbers =   {
                 'nine': '9'
             }
 
-file = open('input.txt')
+file = open('Day1\\input.txt')
 lines = file.readlines()
 sum = 0
 count = 0

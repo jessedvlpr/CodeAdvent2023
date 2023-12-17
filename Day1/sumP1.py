@@ -1,5 +1,4 @@
-
-file = open('input.txt')
+file = open('Day1\\input.txt')
 lines = file.readlines()
 sum = 0
 for line in lines:
